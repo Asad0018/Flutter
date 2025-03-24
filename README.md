@@ -1,1 +1,2 @@
-I'm just starting flutter. I upload the main code of my test projects and the pictures of the app ui here. 
+I'm doing this Project while learning the futter and dart basics for the first time.
+I know the meaning of every line of the code that I've written.
